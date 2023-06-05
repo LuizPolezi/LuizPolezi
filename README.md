@@ -18,12 +18,6 @@
 <img src="https://img.icons8.com/color/logos/software-development/delphi-ide.png" alt="Delphi"/></a> 
 <img src="https://img.icons8.com/color/logos/microsoft/microsoft-sql-server.png" alt="SQL Server"/></a> 
 </div>
-## I'm learning:
-<div>
-<img src="https://img.icons8.com/color/logos/software-development/python.png" alt="Python"/></a> 
-<img src="https://img.icons8.com/color/logos/software-development/flutter" alt="Flutter"/></a> 
-</div>
-</div>
 
 ## My Trophys
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizpolezi" alt="luizpolezi" /></a> </p>
