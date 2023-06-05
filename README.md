@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/luizpolezi/luizpolezi/blob/output/github-contribution-grid-snake.svg)
+
 # 👋 Hello! Welcome to my GitHub profile. 
 ## My name is Luiz Eduardo and I'm a software developer at Matriz Sistemas
 
