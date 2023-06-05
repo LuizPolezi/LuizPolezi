@@ -6,8 +6,8 @@
 <br>
 
 <div>
-<href="https://github.com/SrPolezi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srpolezi&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&card_width=500"/>
+<href="https://github.com/LuizPolezi">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizpolezi&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&card_width=500"/>
 </div>
   
 <br>
@@ -25,10 +25,5 @@
 </div>
 </div>
 
-## Contacts:
-<div>
-<a href="https://www.linkedin.com/in/luiz-eduardo-pereira-lacerda-da-silveira-892986190"><img src="https://img.icons8.com/color/70/000000/linkedin.png" alt="linkedin"/></a>
-</div>
-
 ## My Trophys
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srpolezi" alt="srpolezi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizpolezi" alt="luizpolezi" /></a> </p>
