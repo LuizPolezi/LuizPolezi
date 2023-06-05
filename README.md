@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/seu-usuário-aqui/LuizPolezi/blob/output/github-contribution-grid-snake.svg)
+
 # 👋 Hello! Welcome to my GitHub profile. 
 ## My name is Luiz Eduardo and I'm a software developer at Matriz Sistemas
 
@@ -22,4 +24,4 @@
 ## My Trophys
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizpolezi" alt="luizpolezi" /></a> </p>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
